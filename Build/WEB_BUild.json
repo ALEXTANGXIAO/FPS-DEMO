@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "FPS",
+"productVersion": "1.0.4-preview",
+"dataUrl": "WEB_BUild.data.unityweb",
+"wasmCodeUrl": "WEB_BUild.wasm.code.unityweb",
+"wasmFrameworkUrl": "WEB_BUild.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.2.1f1"
+}
